@@ -1,2 +1,8 @@
 .ssh/
 test.pem
+.aws/
+.cache/
+.config/
+.landscape/
+aws/
+.*
