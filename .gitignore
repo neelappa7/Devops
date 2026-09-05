@@ -6,3 +6,8 @@ test.pem
 .landscape/
 aws/
 .*
+.profile
+.viminfo
+1.sh
+awscliv2.zip
+g.sh
